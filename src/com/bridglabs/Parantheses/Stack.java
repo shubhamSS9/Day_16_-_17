@@ -1,4 +1,4 @@
-package com.bridglabz.Parantheses;
+package com.bridglabs.Parantheses;
 
 public class Stack<T> {
     Node<T> head;

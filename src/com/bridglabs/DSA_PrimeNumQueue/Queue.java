@@ -1,4 +1,4 @@
-package com.bridglabz.DSA_PrimeNumQueue;
+package com.bridglabs.DSA_PrimeNumQueue;
 
 public class Queue<T> {
     Node<T> head;

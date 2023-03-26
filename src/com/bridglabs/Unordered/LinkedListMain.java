@@ -1,4 +1,4 @@
-package com.bridglabz.Unordered;
+package com.bridglabs.Unordered;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.bridglabz.Parantheses;
+package com.bridglabs.DSA_PrimeNumQueue;
 
 public class Node<T> {
     T data;

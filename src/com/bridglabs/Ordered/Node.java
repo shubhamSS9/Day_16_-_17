@@ -1,4 +1,4 @@
-package com.bridglabz.Ordered;
+package com.bridglabs.Ordered;
 
 public class Node<T> {
     T data;

@@ -1,4 +1,4 @@
-package com.bridglabz.DSA_Palindrome;
+package com.bridglabs.DSA_Palindrome;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.bridglabz.Unordered;
+package com.bridglabs.Unordered;
 
 public class LinkedList<T> {
     Node<T> head;

@@ -1,4 +1,4 @@
-package com.bridglabz.DSA_PrimeNumQueue;
+package com.bridglabs.DSA_PrimeNumQueue;
 
 public class Extend_PrimeNumberRange_Queue {
     Queue<Integer>queue= new Queue<>();
